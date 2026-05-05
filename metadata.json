@@ -1,0 +1,12 @@
+{
+  "name": "PatentFlow OA",
+  "description": "Professional Office Action response workbench for patent firms, featuring multilingual analysis and voice interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "Legal Tech",
+    "AI Patent Analysis",
+    "Voice AI"
+  ]
+}
